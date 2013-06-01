@@ -10,7 +10,9 @@ It uses **PHP Markdown** made by Michel Fortin.
 
 Requirements
 ------------
-    1) Symfony 2 (it should work on any version)
+
+ 1. Symfony 2 (it should work on any version)
+
 That's all!
 
 
